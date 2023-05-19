@@ -7,23 +7,23 @@ TERMINAL CODES FOR KIM-1 Basic :
 
 POSITIONS
 ---------
-UP$ UP
-DO$ DOWN
-LEF$ LEFT
-RIG$ RIGHT
-HM$ HOME TO 0-0
+UP$ UP<br>
+DO$ DOWN<br>
+LEF$ LEFT<br>
+RIG$ RIGHT<br>
+HM$ HOME TO 0-0<br>
 
 COLORS
 ------
-CL$ CLEAR SCREEN
-RED$ RED
-GRE$ GREEN
-BLU$ BLUE
-YEL$ YELLOW
-MAG$ MAGENTA
-CYA$ CYANO
-RV$ REVERSE
-NO$ MAKE ALL NORMAL
+CL$ CLEAR SCREEN<br>
+RED$ RED<br>
+GRE$ GREEN<br>
+BLU$ BLUE<br>
+YEL$ YELLOW<br>
+MAG$ MAGENTA<br>
+CYA$ CYANO<br>
+RV$ REVERSE<br>
+NO$ MAKE ALL NORMAL<br>
 
-TODO:
+TODO:<br>
 eliminate the Automatic Linefeed after 72 sended chars with a poke... 
