@@ -2,9 +2,11 @@
 usage of terminal comands in KIM-1 Basic
 
 
+The ESC commands are stored as variables (see the example program).
+To use them, insert the definitions in your basic file and print the variables
+
 
 TERMINAL CODES FOR KIM-1 Basic :
-
 POSITIONS
 ---------
 UP$ UP<br>
