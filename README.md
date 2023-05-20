@@ -1,6 +1,12 @@
 # KIM-Basic-VT100-ESC-code-libraries
 usage of terminal comands in KIM-1 Basic
 
+ESC Sequences are 'hidden' characters, that, when send to a terminal, change the attributes of the terminal window.
+You can set the cursor position, change the foreground or background color, clear the screen, etc.
+To use them you need to send the exact sequence to the terminal. 
+It always starts with "ESC\["
+
+Take a look in the example files to 
 
 
 The ESC commands are stored as variables (see the example program).
