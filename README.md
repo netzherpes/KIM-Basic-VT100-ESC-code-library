@@ -6,8 +6,7 @@ You can set the cursor position, change the foreground or background color, clea
 To use them you need to send the exact sequence to the terminal. 
 It always starts with "ESC\["
 
-Take a look in the example files to 
-
+Take a look in the example files to learn how to use them in your own projects. 
 
 The ESC commands are stored as variables (see the example program).
 To use them, insert the definitions in your basic file and print the variables
