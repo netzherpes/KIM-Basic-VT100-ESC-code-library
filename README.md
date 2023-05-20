@@ -17,11 +17,11 @@ Simple terminal codes and how to use them in KIM-BASIC:
 
 POSITIONS
 ---------
-UP$ UP<br>
-DO$ DOWN<br>
-LEF$ LEFT<br>
-RIG$ RIGHT<br>
-HM$ HOME TO 0-0<br>
+ESC\[1A UP$ UP<br>
+ESC\[1B DO$ DOWN<br>
+ESC\[1D LEF$ LEFT<br>
+ESC\[1C RIG$ RIGHT<br>
+ESC\[H HM$ HOME TO 0-0<br>
 
 COLORS
 ------
