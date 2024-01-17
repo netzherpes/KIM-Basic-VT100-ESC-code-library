@@ -17,7 +17,7 @@ Simple terminal codes and how to use them in KIM-BASIC:
 
 POSITIONS
 ---------
-ESC\[1A UP$ UP<br>
+ESC\[1A is UP$ UP<br>
 ESC\[1B DO$ DOWN<br>
 ESC\[1D LEF$ LEFT<br>
 ESC\[1C RIG$ RIGHT<br>
@@ -26,7 +26,7 @@ ESC\[H HM$ HOME TO 0-0<br>
 COLORS
 ------
 CL$ CLEAR SCREEN<br>
-RED$ RED<br>
+ESC\[1;31m is RED$ RED<br>
 GRE$ GREEN<br>
 BLU$ BLUE<br>
 YEL$ YELLOW<br>
